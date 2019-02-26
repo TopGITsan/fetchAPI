@@ -1,0 +1,33 @@
+html,
+pre {
+    font-family: sans-serif;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #000;
+    color: #ddd
+}
+
+h1 {
+    text-align: center;
+}
+
+pre {
+    line-height: 1.5;
+    letter-spacing: 0.05rem;
+    padding: 1rem;
+    background-color: white;
+    color: #000;
+}
+
+label {
+    width: 200px;
+    margin-right: 33px;
+}
+
+select {
+    width: 350px;
+    padding: 5px;
+}
